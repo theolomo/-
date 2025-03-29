@@ -61,24 +61,11 @@
 
 1. Install [Python 3.10+](https://www.python.org/downloads/) (Enable "Add to PATH").
 2. Check installation: `python --version`.
-3. [Download Blank Grabber](#download).
+3. Download Blank Grabber.
 4. Extract the zip file.
 5. Open **Blank Grabber** folder and run *Builder.bat*.
 6. Fill in settings & hit <kbd>Build</kbd>!
 
-[![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
-
----
-
-## 🎁 Support the Project
-
-Show your support via crypto donations:
-
-- **Bitcoin (BTC):** `bc1quyf7d2cwrd0rgtyhtjt7ermxlw4hzg8npr4yce`
-- **Ethereum (ETH):** `0x54Ab5743141c781178863e3F658d48Cb9564f520`
-- **USDT (Tron):** `TJsixSZ9LDpn3ZNF8pEKmfNaNkMTrK1hWJ`
-
----
 
 ✨ **Stay stealthy, stay ahead!**
 
